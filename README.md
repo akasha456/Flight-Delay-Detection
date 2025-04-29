@@ -34,8 +34,8 @@
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/FlightDelayML.git
-cd FlightDelayML
+git clone https://github.com/akasha456/Flight-Delay-Detection
+cd Flight-Delay-Detection
 pip install -r requirements.txt
 ```
 
